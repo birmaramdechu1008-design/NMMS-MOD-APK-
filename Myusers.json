@@ -46,5 +46,11 @@
         "key": "Hskll@86",
         "expirydate": "20-11-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "5274350c24672007",
+        "key": "Twiebdi628",
+        "expirydate": "20-11-2025",
+        "Allowoffline": false
     }
 ]
