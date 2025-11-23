@@ -70,5 +70,11 @@
         "key": "Bh@16ku",
         "expirydate": "07-12-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "fba305c646c25b25",
+        "key": "Tcs@3b4",
+        "expirydate": "23-11-2025",
+        "Allowoffline": false
     }
 ]
