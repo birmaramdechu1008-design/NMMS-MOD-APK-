@@ -82,5 +82,11 @@
         "key": "Ro@7bh",
         "expirydate": "24-11-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "85ca1c1978bcd036",
+        "key": "T@75hiv",
+        "expirydate": "10-12-2025",
+        "Allowoffline": false
     }
 ]
