@@ -70,5 +70,11 @@
         "key": "Pappu@K108",
         "expirydate": "28-11-2025",
         "Allowoffline": false
+    },
+     {
+        "device_id": "13b93fb06800cdfe",
+        "key": "Ak@amil",
+        "expirydate": "27-11-2025",
+        "Allowoffline": false
     }
 ]
