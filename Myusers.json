@@ -25,7 +25,7 @@
     },
     {
         "device_id": "20e34a8efbb19021",
-        "key": "NPK@019Amil",
+        "key": "NPK@019Amil",j
         "expirydate": "05-12-2025",
         "Allowoffline": false
     },
@@ -66,14 +66,14 @@
         "Allowoffline": false
     },
      {
-        "device_id": "26fcc3901dbbcbff",
-        "key": "Pappu@K108",
+        "device_id": "13b93fb06800cdfe",
+        "key": "Ak@amil",
         "expirydate": "28-11-2025",
         "Allowoffline": false
     },
      {
-        "device_id": "13b93fb06800cdfe",
-        "key": "Ak@amil",
+        "device_id": "26fcc3901dbbcbff",
+        "key": "Pk@417sbj",
         "expirydate": "28-11-2025",
         "Allowoffline": false
     }
