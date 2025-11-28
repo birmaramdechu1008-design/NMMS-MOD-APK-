@@ -100,5 +100,11 @@
         "key": "Sachin@Bonde3",
         "expirydate": "29-11-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "ff692bcccf6db2a0",
+        "key": "Yalagauda@54",
+        "expirydate": "29-11-2025",
+        "Allowoffline": false
     }
 ]
