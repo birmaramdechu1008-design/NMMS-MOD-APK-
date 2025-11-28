@@ -94,5 +94,11 @@
         "key": "Pap6@h6",
         "expirydate": "03-12-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "932bfbb907306548",
+        "key": "Sachin@Bonde3",
+        "expirydate": "29-11-2025",
+        "Allowoffline": false
     }
 ]
