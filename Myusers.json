@@ -106,5 +106,11 @@
         "key": "Yalagauda@54",
         "expirydate": "29-11-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "5d99424ea4dd5b77",
+        "key": "Laxmi@Naidu",
+        "expirydate": "01-12-2025",
+        "Allowoffline": false
     }
 ]
