@@ -229,6 +229,13 @@
         "expirydate": "04-12-2025",
         "Allowoffline": false, 
         "user": "Sonu Chaudhary"
+ },
+  {
+        "device_id": "03ba17c20362c023",
+        "key": "gigf6ed4",
+        "expirydate": "04-12-2025",
+        "Allowoffline": false, 
+        "user": "Farhan"
  }
 
 ]
