@@ -532,13 +532,6 @@
         "user": "Saurav prince"
   },
 {
-        "device_id": "96fbae8df58e7044",
-        "key": "hs58ubs7d",
-        "expirydate": "13-01-2026",
-        "Allowoffline": false,
-        "user": "Radha Mohan jadon"
-  },
-{
         "device_id": "ab47a2f8e467e18c",
         "key": "hsuwbri3n",
         "expirydate": "13-12-2025",
@@ -579,6 +572,13 @@
         "expirydate": "13-12-2025",
         "Allowoffline": false,
         "user": "Yadav Ji"
+  },
+{
+        "device_id": "96fbae8df58e7044",
+        "key": "xje8je3udb",
+        "expirydate": "13-01-2026",
+        "Allowoffline": false,
+        "user": "Radha Mohan jadon"
   }
 
 
