@@ -275,7 +275,7 @@
     {
         "device_id": "26fcc3901dbbcbff",
         "key": "Pk@417sbj",
-        "expirydate": "28-11-2025",
+        "expirydate": "08-01-2026",
         "Allowoffline": false,
         "user": "Pappu Kumar"
  },
@@ -286,13 +286,6 @@
         "Allowoffline": false,
         "user": "Bala"
   },
-    {
-        "device_id": "26fcc3901dbbcbff",
-        "key": "Pap6@h6",
-        "expirydate": "03-12-2025",
-        "Allowoffline": false,
-        "user": "Pappu Kumar"
- },
     {
         "device_id": "932bfbb907306548",
         "key": "Sachin@Bonde3",
