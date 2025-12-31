@@ -1127,13 +1127,6 @@
         "user": "Saurav prince"
   },
 {
-        "device_id": "ab47a2f8e467e18c",
-        "key": "hsuwbri3n",
-        "expirydate": "13-12-2025",
-        "Allowoffline": false,
-        "user": "+916266183285"
-  },
-{
         "device_id": "29a28c22e4381d6e",
         "key": "h5rfi8hyh",
         "expirydate": "29-12-2025",
@@ -1248,7 +1241,7 @@
 {
         "device_id": "ab47a2f8e467e18c",
         "key": "6db384bdu",
-        "expirydate": "30-12-2025",
+        "expirydate": "01-01-2026",
         "Allowoffline": false,
         "user": "Dixit"
   },
