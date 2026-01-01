@@ -821,9 +821,9 @@
   {
     "device_id": "7844fb43d7e0587c",
     "key": "Prem@Varan",
-    "expirydate": "03-01-2026",
-    "Allowoffline": false,
-    "user": "Prem Varan"
+    "expirydate": "31-01-2026",
+    "user": "Prem Varan",
+    "Allowoffline": false
   },
   {
     "device_id": "95cd38944cfbd4fd",
