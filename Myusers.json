@@ -441,11 +441,11 @@
     "user": "Sonu Singh"
   },
   {
-    "device_id": "21c67e2f4130f5e9",
+    "device_id": "4af23a5ce8c13cba",
     "key": "Gir4@6g",
     "expirydate": "08-01-2026",
-    "Allowoffline": false,
-    "user": "Bholu 4"
+    "user": "Bholu 4",
+    "Allowoffline": false
   },
   {
     "device_id": "b434b01b14ad2632",
