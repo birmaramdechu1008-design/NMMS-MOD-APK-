@@ -1503,5 +1503,12 @@
     "expirydate": "01-02-2026",
     "user": "Prem Varan",
     "Allowoffline": false
+  },
+  {
+    "device_id": "be8e148d64f0495c",
+    "key": "Jaushs72t3e6gdb",
+    "expirydate": "03-01-2026",
+    "user": "Rural development",
+    "Allowoffline": false
   }
 ]
