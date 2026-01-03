@@ -1503,5 +1503,12 @@
     "expirydate": "03-01-20",
     "user": "Rural development",
     "Allowoffline": false
+  },
+  {
+    "device_id": "773f74a4a17a198d",
+    "key": "Ys8ehb38db6",
+    "expirydate": "02-02-2026",
+    "user": "Bhojraj Jharia",
+    "Allowoffline": false
   }
 ]
