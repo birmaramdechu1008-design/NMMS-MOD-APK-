@@ -1510,5 +1510,12 @@
     "expirydate": "02-02-2026",
     "user": "Bhojraj Jharia",
     "Allowoffline": false
+  },
+  {
+    "device_id": "6bd2aedd147c9e45",
+    "key": "Igug75rcyivibib",
+    "expirydate": "05-01-2026",
+    "user": "Nitish Kumar Yadav",
+    "Allowoffline": false
   }
 ]
