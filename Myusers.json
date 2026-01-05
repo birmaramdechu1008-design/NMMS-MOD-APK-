@@ -1524,5 +1524,12 @@
     "expirydate": "18-01-2026",
     "user": "Rita Devi BKK",
     "Allowoffline": false
+  },
+  {
+    "device_id": "b8fc974c7320accb",
+    "key": "37ddveibtvv",
+    "expirydate": "20-01-2026",
+    "user": "NPK Pal",
+    "Allowoffline": false
   }
 ]
