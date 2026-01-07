@@ -256,7 +256,7 @@
     "key": "Gku3@v74",
     "expirydate": "17-01-2026",
     "user": "Dwariqa Meena",
-    "Allowoffline": false
+    "Allowoffline": true
   },
   {
     "device_id": "a11ef860d072f60e",
