@@ -238,6 +238,13 @@
     "user": "Babu Rahul"
   },
   {
+    "device_id": "2791bd5d4953aa31",
+    "key": "Jh2@uh6t",
+    "expirydate": "15-01-2026",
+    "user": "Ajay Verma 3",
+    "Allowoffline": false
+  },
+  {
     "device_id": "521a3a89df96ccae",
     "key": "Tnik@5ge6hu",
     "expirydate": "14-01-2026",
@@ -621,13 +628,6 @@
     "expirydate": "21-01-2026",
     "Allowoffline": false,
     "user": "Shubham Sindhiya"
-  },
-  {
-    "device_id": "2791bd5d4953aa31",
-    "key": "Jh2@uh6t",
-    "expirydate": "27-12-2025",
-    "Allowoffline": false,
-    "user": " Ajay Verma 3"
   },
   {
     "device_id": "c997e2d328e95b58",
