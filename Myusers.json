@@ -529,7 +529,7 @@
     "key": "Fy74t787gggf",
     "expirydate": "17-01-2026",
     "user": "Gulfam Khan",
-    "Allowoffline": true
+    "Allowoffline": false
   },
   {
     "device_id": "6d7e0bea120f6d8c",
