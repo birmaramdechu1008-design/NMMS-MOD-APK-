@@ -27,12 +27,12 @@
     "user": "Kaksa",
     "Allowoffline": false
   },
-{
-        "device_id": "8620c69e1e7ce1f5",
-        "key": "Lue7@7fn",
-        "expirydate": "15-02-2026",
-        "Allowoffline": false,
-        "user": "Sonu Singh"
+  {
+    "device_id": "8620c69e1e7ce1f5",
+    "key": "Lue7@7fn",
+    "expirydate": "15-02-2026",
+    "Allowoffline": false,
+    "user": "Sonu Singh"
   },
   {
     "device_id": "786b5e10bed8a5d1",
@@ -1846,13 +1846,6 @@
     "expirydate": "01-01-2026",
     "Allowoffline": false,
     "user": "Ram Chaudhary"
-  },
-  {
-    "device_id": "7844fb43d7e0587c",
-    "key": "haahsuseb",
-    "expirydate": "01-02-2026",
-    "user": "Prem Varan",
-    "Allowoffline": false
   },
   {
     "device_id": "be8e148d64f0495c",
